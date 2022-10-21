@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE4projects\TestA\Intermediate\Build\Win64\TestAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UE4projects\TestA\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Development\MyPlugin\Module.MyPlugin.cpp.obj"
+"E:\UE4projects\TestA\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Development\MyPlugin\Module.MyPlugin.gen.cpp.obj"
+"E:\UE4projects\TestA\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Development\MyPlugin\Default.rc2.res"
+/OUT:"E:\UE4projects\TestA\Plugins\MyPlugin\Intermediate\Build\Win64\UE4Editor\Development\MyPlugin\UE4Editor-MyPlugin.lib"

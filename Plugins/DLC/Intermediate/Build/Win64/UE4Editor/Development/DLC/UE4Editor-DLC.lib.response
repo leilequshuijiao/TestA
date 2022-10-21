@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DLC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE4projects\TestA\Intermediate\Build\Win64\TestAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UE4projects\TestA\Plugins\DLC\Intermediate\Build\Win64\UE4Editor\Development\DLC\DLC.cpp.obj"
+"E:\UE4projects\TestA\Plugins\DLC\Intermediate\Build\Win64\UE4Editor\Development\DLC\Default.rc2.res"
+/OUT:"E:\UE4projects\TestA\Plugins\DLC\Intermediate\Build\Win64\UE4Editor\Development\DLC\UE4Editor-DLC.lib"

@@ -1,0 +1,2 @@
+E:\UE4projects\TestA\Plugins\MyPlugin\Intermediate\Build\Win64\UE4\Development\MyPlugin\Definitions.MyPlugin.h
+E:\UE4projects\TestA\Plugins\MyPlugin\Source\MyPlugin\Public\MyPlugin.h

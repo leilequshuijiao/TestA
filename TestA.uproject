@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CE3E55A0-42B7-3E35-8CF1-8FAECCA06CA1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestA",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
